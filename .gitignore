@@ -4,3 +4,4 @@
 *.token
 .env
 node_modules/
+.wrangler/
